@@ -11,7 +11,7 @@ this is a web appication where you can get random quotes  .
 
 
 <p align="center">
-  <img src="images/screenshot.png" />
+  <img src="screenshot.PNG" />
 
 </p>
 
