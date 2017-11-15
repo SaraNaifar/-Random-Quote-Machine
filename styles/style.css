@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Courgette');
+body{
+	background-color: #ff4d4d;
+}
+.qoutediv{
+	background-color: white;
+}
+main{
+	width: 700px;
+	height: 380px;
+	margin: 0 auto;
+	position: relative;
+	border-radius: 16px;
+	margin-top: 48px;
+
+}
+footer{
+	text-align: center;
+	color:white;
+}
+.myfonts{
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+
+}
+i{
+	color:#ff4d4d ;
+	margin-left: 14px;
+}
+button{
+	float: right;
+
+	background-color:#ff4d4d; /* Green */
+	border: none;
+	color: white;
+	padding: 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	border-radius: 8px;
+}
+.myquote{
+	position: relative;
+	left: 50px;
+	top: 13px;
+}
+
+.display-quote{
+	font-family: Courgette , sans-serif;
+	font-size: 36px;
+	text-align: center;
+}
+.display-author{
+	font-family: Courgette , sans-serif;
+	font-size: 25px;
+	text-align: center;
+}
+
+span{
+	font-family: sans-serif;
+	font-size: 20px;
+
+}
