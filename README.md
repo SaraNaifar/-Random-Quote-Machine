@@ -54,4 +54,4 @@ fonts/font-awesome-4.7.0 ; scripts/script.js + jquery-3.2.1.min.js ; styles/styl
 
 ## Have a look at my project !
 
-<a href="https://saranaifar.github.io/-Random-Quote-Machine/" target="_blank"></a>
+<a href="https://saranaifar.github.io/-Random-Quote-Machine/" target="_blank">Random Quote Machine</a>
