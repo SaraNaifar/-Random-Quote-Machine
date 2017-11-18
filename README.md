@@ -51,3 +51,6 @@ fonts/font-awesome-4.7.0 ; scripts/script.js + jquery-3.2.1.min.js ; styles/styl
 * manipulate DOM with jquery 
 *tweeter a quote with tweet button 
 
+
+## Have a look at my project !
+https://saranaifar.github.io/-Random-Quote-Machine/

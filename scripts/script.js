@@ -30,7 +30,7 @@ $(document).ready(function () {
 
   function init () {
     randomIndex = 0
-    $('.display-quote').html('-' + quoteList[0].quote + '-')
+    $('.display-quote').html(quoteList[0].quote)
     $('.display-author').html('-' + quoteList[0].author + '-')
   }
 
